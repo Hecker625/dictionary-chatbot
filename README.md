@@ -1,2 +1,2 @@
-# dictionary-chatbot
-A simple dictionary chatbot.
+# Dictionary Chatbot
+A simple chatbot using a python dictionary.
